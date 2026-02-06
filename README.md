@@ -150,9 +150,7 @@
 
 ### Онлайн
 
-https://devgeek.it/tetris
+[https://devgeek.it/tetris](https://devgeekit.github.io/Tetris-USSR-Style/)
 
-### Локально
 
-```bash
-git clone https://github.com/your-repo/tetris-web.git
+
