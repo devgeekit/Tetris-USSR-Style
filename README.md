@@ -153,4 +153,6 @@
 [https://devgeek.it/tetris](https://devgeekit.github.io/Tetris-USSR-Style/)
 
 
+<img width="505" height="1112" alt="image" src="https://github.com/user-attachments/assets/820a1bfd-c9b7-42b4-b0d5-803be6fac276" />
+
 
